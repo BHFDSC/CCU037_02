@@ -1,4 +1,4 @@
-# Model (TBC)
+# CCU037 Minimising bias in ethnicity data 
 
 ## Project description
 
