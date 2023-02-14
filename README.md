@@ -11,10 +11,8 @@ We propose to develop a calculator to predict cardiovascular disease (CVD) in CO
 
 ## Contents
 
-* [View the analysis code and phenotypes used in NHS Digital's TRE for England](https://github.com/BHFDSC/CCU037_02/tree/main/england)
-* [View the analysis code and phenotypes used in the SAIL Databank](https://github.com/BHFDSC/CCU037_02/tree/main/wales)
-* [View the code used outside of the environments to prepare tables and figures for publication](https://github.com/BHFDSC/CCU037_02/tree/main/outside)
-* [View the final results of our analysis](https://github.com/BHFDSC/CCU037_02/tree/main/results)
+* [View the analysis code used in NHS Digital's TRE for England](https://github.com/BHFDSC/CCU037_02/tree/main/code)
+* [View the phenotyping algorithms and codelists used in NHS Digital's TRE for England](https://github.com/BHFDSC/CCU037_02/tree/main/phenotypes)
 
 ## Project approval
 
