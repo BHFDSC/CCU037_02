@@ -1,4 +1,4 @@
-# CCU037 Minimising bias in ethnicity data 
+# Women’s health and ethnic disparities: a population-wide analysis of 3.6 million digital health records for mortality and cardiovascular risk in women diagnosed with COVID-19 
 
 ## Project description
 
