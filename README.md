@@ -1,16 +1,17 @@
 # Health and ethnic disparities in England: a population-wide analysis of 4.9 million digital health records for mortality and cardiovascular risk in individuals diagnosed with COVID-19 
 
+**Marta Pineda-Moncusí, Freya Allery, Hoda Abbasizanjani, David Powell, Albert Prats-Uribe, Johan H. Thygesen, Angela Wood, Christopher Tomlinson, Amitava Banerjee, Ashley Akbari, Antonella Delmestri, Laura C. Coates, Spiros Denaxas, Kamlesh Khunti, Gary Collins, Daniel Prieto-Alhambra, Sara Khalid, on behalf of the CVD-COVID-UK/COVID-IMPACT Consortium**
+
 ## Project description
 
 Inequality in health has been highlighted by the COVID-19 pandemic, where people from ethnically diverse backgrounds were disproportionately affected. But we know inequity is not limited to the pandemic as it is a long-standing, multi-faceted issue. An example is technology for predicting a person’s future health risks. This involves routinely collected health information, which is fed into a computer model which in turn produces a health risk score for a patient, and that is used by doctors to decide patient care.
 
 If there is bias in the data or bias in the model, the doctor can potentially make wrong decisions and patients can get the wrong care or no care, meaning some groups of patients might inappropriately be prioritised over other for booster vaccines, hospital beds, or life-saving treatments, which in turn can affect patient and public trust, and cost the NHS. This proposal aims to improve existing technology for predicting personalised future risk of health conditions, particularly those affecting overlooked groups of patients. We aim to do so by a) improving the way recorded ethnicity is used in research (results shown in [sub-project CCU037_01](https://github.com/BHFDSC/CCU037_01)), b) observe Women’s health and ethnic disparities in mortality and cardiovascular disease (results shown in this repository ) and c) improving the modelling process to build risk prediction models tailored to ethnicity groups and therefore more reliable in practice (results shown in [sub-project CCU037_03](https://github.com/BHFDSC/CCU037_03)). 
  
-
 This proposal will observe ethnic disparities in individuals diagnosed with COVID-19 disease in the England population by exploring the risk of severe outcomes of COVID-19 such as of mortality and cardiovascular disease during different phases of the pandemic.
 
 ## How to cite this work
-> Preprint not available yet
+Pineda-Moncusí, M., Allery, F., Abbasizanjani, H. et al. Ethnic disparities in COVID-19 mortality and cardiovascular disease in England and Wales between 2020-2022. Nat Commun 16, 6059 (2025). https://doi.org/10.1038/s41467-025-59951-4
 
 ## Contents
 
